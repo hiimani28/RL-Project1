@@ -9,7 +9,7 @@ Part 2: Non-Stationary Reward Distributions <br>
 
 ## Repository Structure
 .ipynb_checkpoints/: Contains Jupyter notebook checkpoints.
-rl-a1.pdf: PDF report for the assignment.\n
+rl-a1.pdf: Project description
 <br>Part_1_RL_Project1.ipynb: Jupyter notebook for Part 1: Stationary Reward Distributions. 
 <br>Part2-Drift_change.ipynb: Jupyter notebook for the drift change experiment in Part 2.
 <br>Part2_AbruptChange.ipynb: Jupyter notebook for the abrupt change experiment in Part 2.
