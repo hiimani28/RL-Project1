@@ -49,4 +49,5 @@ Results
 
 
 ## Authors
-This project was completed by Himani Thakkar and Parinaz Shiri. If you have any questions or need further assistance, please feel free to contact us.
+
+This project was completed by [Himani Thakkar](https://github.com/hiimani28) and [Parinaz Shiri](https://github.com/Parinaz-Shiri). If you have any questions or need further assistance, please feel free to contact us.
